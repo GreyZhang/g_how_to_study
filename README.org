@@ -5,3 +5,4 @@
 ** 方法整理
 - [[https://blog.csdn.net/grey_csdn/article/details/127380937][1495_关于费曼技巧相关信息的一点思考]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127417259][1496_关于约翰惠勒与费曼]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127419871][1497_费曼技巧之他人观]]
